@@ -1,2 +1,6 @@
 pandas
 numpy==1.16.*
+openpyxl
+speedml
+seaborn
+matplotlib
