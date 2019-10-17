@@ -5,3 +5,4 @@ speedml
 seaborn
 matplotlib
 imblearn
+statsmodels
